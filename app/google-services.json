@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48306520114",
+    "firebase_url": "https://dazzling-tiger-222016.firebaseio.com",
+    "project_id": "dazzling-tiger-222016",
+    "storage_bucket": "dazzling-tiger-222016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48306520114:android:7fd5b4b4cac0285d",
+        "android_client_info": {
+          "package_name": "mcc.mcc18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48306520114-kr7rfkqml57d1b7f4aldp2uqvhnfcth6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcc.mcc18",
+            "certificate_hash": "2053a34dcbc45c434a2bdd8ba8b16857c2623e53"
+          }
+        },
+        {
+          "client_id": "48306520114-l3noptqstbd4b8n06ctee6piqq1jtohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiY_IyMYnASkzeKgvAqNkz0Q6z466Bu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48306520114-l3noptqstbd4b8n06ctee6piqq1jtohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

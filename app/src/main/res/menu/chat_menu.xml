@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addMoreUsrs"
+        android:title="Add User"
+        app:showAsAction="never"
+        app:theme="@style/CustomToolbarStyle"></item>
+    <item
+        android:id="@+id/chatInfo"
+        android:title="About Chat Room"
+        app:showAsAction="never"
+        app:theme="@style/CustomToolbarStyle"></item>
+    <item
+        android:id="@+id/chatGallery"
+        android:title="Gallery"
+        app:showAsAction="never"
+        app:theme="@style/CustomToolbarStyle"></item>
+    <item
+        android:id="@+id/leaveChat"
+        android:title="Leave Chat"
+        app:showAsAction="never"
+        app:theme="@style/CustomToolbarStyle"></item>
+</menu>
